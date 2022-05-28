@@ -21,4 +21,4 @@
 
 <h3 align="left">Stat:</h3>
 
-[![Apsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Predator-of-the-code)](https://github.com/Predator-of-the-code/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Predator-of-the-code&show_icons=true&theme=dark)
