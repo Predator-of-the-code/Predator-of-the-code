@@ -1,3 +1,5 @@
+<img src="https://profile-counter.glitch.me/Predator-of-the-code/count.svg" alt="vistor count" height="30" />
+
 <h1 align="center">Predator of the code - Apsu</h1>
 <h3 align="center">Developer algo - web</h3>
 
