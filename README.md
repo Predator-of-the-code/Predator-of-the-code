@@ -25,4 +25,5 @@
 <h3 align="left">Stat:</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Predator-of-the-code&show_icons=true&theme=dark) 
-<img alt="Apsu" src="https://github-readme-streak-stats.herokuapp.com/?user=Predator-of-the-code&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<img alt="Apsu" src="https://github-readme-streak-stats.herokuapp.com/?user=Predator-of-the-code&theme=black-ice&hide_border=1px_solid_white&stroke=0001&background=060A0CD0"/>
+
