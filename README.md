@@ -27,3 +27,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Predator-of-the-code&show_icons=true&theme=dark) 
 <img alt="Apsu" src="https://github-readme-streak-stats.herokuapp.com/?user=Predator-of-the-code&theme=black-ice&hide_border=1px_solid_white&stroke=0001&background=060A0CD0"/>
 
+<h3 align="left">Stat Language:</h3>
+<img alt="Predator of the-code Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Predator-of-the-code&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
