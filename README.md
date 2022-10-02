@@ -4,7 +4,7 @@
 <h3 align="center">Developer algo - web</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://discord.com/users/903217261035261992" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Apsu#4642" height="30" width="40"/></a>
+<a href="https://discord.com/1025096864267243555" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Apsu#4642" height="30" width="40"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
